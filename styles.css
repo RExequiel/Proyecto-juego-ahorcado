@@ -1,15 +1,5 @@
 #logo > img{
     height: 150px;
-    animation: giro 6s linear infinite;
-}
-
-@keyframes giro {
-    0%{
-        transform: rotateZ(30deg);
-    }
-    100%{
-        transform: rotateZ(-30deg);
-    }
 }
 
 #contain{
